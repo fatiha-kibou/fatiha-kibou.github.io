@@ -1,0 +1,28 @@
+.ml{
+    transition: transform 1s;
+}
+.ml:hover{
+    transform: scale(2);
+    transform: scale(1.1);
+}
+li{
+    transition: 2s;
+}
+li:hover{
+    background-color: darkblue;
+}
+h1{
+    text-shadow:6px 6px darkblue;
+}
+
+h2{
+    text-shadow:2px 2px darkblue;
+}
+
+h4{
+    text-shadow:2px 2px darkblue;
+}
+
+header{
+    box-shadow:6px 6px darkblue;
+}
